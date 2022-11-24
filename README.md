@@ -1,9 +1,8 @@
 ## Prazer!! Meu nome é Victor Hugo Ferreira
-
-
-- 🔭 Atualmente estou trabalhando como estagiario Suporte Técnico e manutenção de computadores
+- 🔥 Desenvolvedor Back-end júnior.
 - 📚 Aluno da Escola SENAI Prof. Dr. Euryclides de Jesus Zerbini
-- 🌱 Estudando Java
+- 📚 Análise e Desenvolvimento de Sistemas(Fatec)
+- 🌱 Estudando Java,Spring Boot,JavaScript,Angular,Git e Mysql
 
 <div align="center">
   <a href="https://github.com/VictorVFM">
