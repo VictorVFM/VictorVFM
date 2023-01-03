@@ -2,7 +2,7 @@
 - 🔥 Desenvolvedor Back-end júnior.
 - 📚 Aluno da Escola SENAI Prof. Dr. Euryclides de Jesus Zerbini
 - 📚 Análise e Desenvolvimento de Sistemas(Fatec)
-- 🌱 Estudando Java,Spring Boot,JavaScript,Angular,Git e Mysql
+- 🌱 Estudando Java,Spring Boot,JavaScript,React,Git e Mysql
 
 <div align="center">
   <a href="https://github.com/VictorVFM">
