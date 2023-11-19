@@ -1,8 +1,8 @@
 ## Prazer!! Meu nome é Victor Hugo Ferreira
 - 🔥 Desenvolvedor Back-end júnior.
-- 📚 Aluno da Escola SENAI Prof. Dr. Euryclides de Jesus Zerbini
-- 📚 Análise e Desenvolvimento de Sistemas(Fatec)
-- 🌱 Estudando Java,Spring Boot,JavaScript,React,Git e Mysql
+- 📚 Técnico em Desenvolvimento de Sistemas
+- 📚 Análise e Desenvolvimento de Sistemas(Fatec) 4ºSemestre
+- 🌱 Estudando Java,Spring Boot,JavaScript,Angular,Git e Mysql
 
 <div align="center">
   <a href="https://github.com/VictorVFM">
