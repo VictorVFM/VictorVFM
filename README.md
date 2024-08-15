@@ -1,7 +1,7 @@
 ## Prazer!! Meu nome é Victor Hugo Ferreira
 - 🔥 Desenvolvedor Back-end júnior.
 - 📚 Técnico em Desenvolvimento de Sistemas
-- 📚 Análise e Desenvolvimento de Sistemas(Fatec) 4ºSemestre
+- 📚 Análise e Desenvolvimento de Sistemas(Fatec) 5ºSemestre
 - 🌱 Estudando Java,Spring Boot,JavaScript,Angular,Git e Mysql
 
 <div align="center">
