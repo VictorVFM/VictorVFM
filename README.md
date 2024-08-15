@@ -1,8 +1,9 @@
+
 ## Prazer!! Meu nome é Victor Hugo Ferreira
 - 🔥 Desenvolvedor Back-end júnior.
 - 📚 Técnico em Desenvolvimento de Sistemas
-- 📚 Análise e Desenvolvimento de Sistemas(Fatec) 5ºSemestre
-- 🌱 Estudando Java,Spring Boot,JavaScript,Angular,Git e Mysql
+- 📚 Análise e Desenvolvimento de Sistemas(Fatec) 5º Semestre
+- 🌱 Estudando Java,Spring Boot,Angular,Git e PostGre
 
 <div align="center">
   <a href="https://github.com/VictorVFM">
@@ -12,12 +13,12 @@
   
 <div style="display: inline_block"><br>
    
-  <code><img align="center" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
-  <code><img align="center" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"></code>
-  <code><img align="center" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"></code>
-  <code><img align="center" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></code>
-  <code><img align="center" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
-  <code><img align="center" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg"></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg"></code>
+  
 </div>  
  
  ##
