@@ -3,7 +3,7 @@
 - 🔥 Desenvolvedor Back-end júnior.
 - 📚 Técnico em Desenvolvimento de Sistemas
 - 📚 Análise e Desenvolvimento de Sistemas(Fatec) 5º Semestre
-- 🌱 Estudando Java,Spring Boot,Angular,Git e PostGre
+- 🌱 Estudando Java,Spring Boot,Angular,Git e PostGres
 
 <div align="center">
   <a href="https://github.com/victormarinho1">
